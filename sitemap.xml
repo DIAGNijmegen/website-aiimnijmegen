@@ -3,10 +3,6 @@
 
 
   <url>
-    <loc>https://diagnijmegen.github.io/website-aiimnijmegen/404/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://diagnijmegen.github.io/website-aiimnijmegen/about/</loc>
     <priority>1.0</priority>
   </url>
@@ -24,6 +20,10 @@
   </url>
   <url>
     <loc>https://diagnijmegen.github.io/website-aiimnijmegen/members/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://diagnijmegen.github.io/website-aiimnijmegen/404/</loc>
     <priority>1.0</priority>
   </url>
   <url>
