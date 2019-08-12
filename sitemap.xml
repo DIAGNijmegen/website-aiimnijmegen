@@ -75,6 +75,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.aiimnijmegen.nl/members/miguel-fernandes/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/publications/rodr17/</loc>
     <priority>1.0</priority>
   </url>
@@ -128,6 +132,10 @@
   </url>
   <url>
     <loc>https://www.aiimnijmegen.nl/publications/jonas-teuwen/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/miguel-fernandes/</loc>
     <priority>1.0</priority>
   </url>
   <url>
