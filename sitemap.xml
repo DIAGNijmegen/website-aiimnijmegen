@@ -3,7 +3,35 @@
 
 
   <url>
+    <loc>https://www.aiimnijmegen.nl/publications/teuw14/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/about/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/dalm19/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/teuw17b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/moor18a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/moor2018/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/cab18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/rodr19/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -27,7 +55,35 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.aiimnijmegen.nl/publications/hago18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/members/jonas-teuwen/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/members/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/leem18a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/leem19b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/rodr17/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/rodr18b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/rodr17b/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -39,11 +95,23 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.aiimnijmegen.nl/publications/teuw18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/publications/haas18/</loc>
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.aiimnijmegen.nl/publications/teuw16b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/404/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/roru18b/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -59,7 +127,27 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.aiimnijmegen.nl/publications/jonas-teuwen/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/publications/nikita-moriakov/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/riccardo-samperna/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/members/riccardo-samperna/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/teuw16/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/sand19/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -67,7 +155,15 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.aiimnijmegen.nl/publications/ghaf18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/thesis-gallery/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/smee18/</loc>
     <priority>1.0</priority>
   </url>
   <url>
