@@ -3,11 +3,19 @@
 
 
   <url>
+    <loc>https://www.aiimnijmegen.nl/publications/mert17/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/publications/teuw14/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.aiimnijmegen.nl/about/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/vree19/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -60,6 +68,10 @@
   </url>
   <url>
     <loc>https://www.aiimnijmegen.nl/members/jonas-teuwen/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/members/mehmet-dalmis/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -135,6 +147,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.aiimnijmegen.nl/publications/mehmet-dalmis/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/publications/miguel-fernandes/</loc>
     <priority>1.0</priority>
   </url>
@@ -152,6 +168,10 @@
   </url>
   <url>
     <loc>https://www.aiimnijmegen.nl/publications/teuw16/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/dalm15c/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -175,11 +195,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.aiimnijmegen.nl/publications/dalm17/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/vacancies/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.aiimnijmegen.nl/publications/vug18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/mert16/</loc>
     <priority>1.0</priority>
   </url>
 
