@@ -91,10 +91,6 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.aiimnijmegen.nl/projects/mrbrain/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://www.aiimnijmegen.nl/members/mehmet-dalmis/</loc>
     <priority>1.0</priority>
   </url>
@@ -112,6 +108,10 @@
   </url>
   <url>
     <loc>https://www.aiimnijmegen.nl/members/miguel-fernandes/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/projects/mrbrain/</loc>
     <priority>1.0</priority>
   </url>
   <url>
