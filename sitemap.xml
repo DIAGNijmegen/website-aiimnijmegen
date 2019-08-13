@@ -67,6 +67,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.aiimnijmegen.nl/members/fazael_ayatollahi/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/projects/imagine/</loc>
     <priority>1.0</priority>
   </url>
@@ -160,6 +164,10 @@
   </url>
   <url>
     <loc>https://www.aiimnijmegen.nl/publications/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/fazael_ayatollahi/</loc>
     <priority>1.0</priority>
   </url>
   <url>
