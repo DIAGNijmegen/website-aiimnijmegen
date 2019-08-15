@@ -67,7 +67,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.aiimnijmegen.nl/publications/mor16/</loc>
+    <loc>https://www.aiimnijmegen.nl/publications/mori16/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -220,6 +220,10 @@
   </url>
   <url>
     <loc>https://www.aiimnijmegen.nl/software/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/litj19/</loc>
     <priority>1.0</priority>
   </url>
   <url>
