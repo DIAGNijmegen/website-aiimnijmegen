@@ -271,6 +271,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.aiimnijmegen.nl/publications/ayat19/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/projects/dl-reconstruction/</loc>
     <priority>1.0</priority>
   </url>
@@ -344,6 +348,10 @@
   </url>
   <url>
     <loc>https://www.aiimnijmegen.nl/publications/holl15a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/putz19/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -668,6 +676,10 @@
   </url>
   <url>
     <loc>https://www.aiimnijmegen.nl/publications/ghaf18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/bakk19/</loc>
     <priority>1.0</priority>
   </url>
   <url>
