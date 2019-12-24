@@ -13,6 +13,10 @@
     <loc>https://www.aiimnijmegen.nl/highlights/mehmet-dalmis-phd/</loc>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/highlights/iclr-cyclegan/</loc>
+    <priority>0.8</priority>
+  </url>
 
   <url>
     <loc>https://www.aiimnijmegen.nl/publications/steh14/</loc>
