@@ -351,6 +351,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.aiimnijmegen.nl/publications/ruh19/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/publications/schi13/</loc>
     <priority>1.0</priority>
   </url>
@@ -672,6 +676,10 @@
   </url>
   <url>
     <loc>https://www.aiimnijmegen.nl/publications/sand19/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/sand20/</loc>
     <priority>1.0</priority>
   </url>
   <url>
