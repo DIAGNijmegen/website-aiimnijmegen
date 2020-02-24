@@ -43,6 +43,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.aiimnijmegen.nl/NA</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/http://linkinghub.elsevier.com/retrieve/pii/S0019357714000718</loc>
     <priority>1.0</priority>
   </url>
