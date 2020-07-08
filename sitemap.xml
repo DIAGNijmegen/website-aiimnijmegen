@@ -2,10 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <url>
-    <loc>https://www.aiimnijmegen.nl/highlights/iclr-cyclegan/</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://www.aiimnijmegen.nl/highlights/fastmri_challenge/</loc>
     <priority>0.8</priority>
   </url>
@@ -427,10 +423,6 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.aiimnijmegen.nl/members/nikita-moriakov/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://www.aiimnijmegen.nl/publications/mori17/</loc>
     <priority>1.0</priority>
   </url>
@@ -524,10 +516,6 @@
   </url>
   <url>
     <loc>https://www.aiimnijmegen.nl/publications/tan13d/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.aiimnijmegen.nl/members/riccardo-samperna/</loc>
     <priority>1.0</priority>
   </url>
   <url>
