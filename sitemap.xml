@@ -87,6 +87,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.aiimnijmegen.nl/publications/less20/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/publications/plat14/</loc>
     <priority>1.0</priority>
   </url>
@@ -508,6 +512,14 @@
   </url>
   <url>
     <loc>https://www.aiimnijmegen.nl/publications/nikita-moriakov/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/riccardo-samperna/all/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/riccardo-samperna/</loc>
     <priority>1.0</priority>
   </url>
   <url>
