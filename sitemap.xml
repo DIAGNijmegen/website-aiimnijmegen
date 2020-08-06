@@ -43,6 +43,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.aiimnijmegen.nl/publications/teuw14/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/publications/mann14/</loc>
     <priority>1.0</priority>
   </url>
@@ -275,6 +279,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.aiimnijmegen.nl/publications/mori16/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/publications/gube15f/</loc>
     <priority>1.0</priority>
   </url>
@@ -292,10 +300,6 @@
   </url>
   <url>
     <loc>https://www.aiimnijmegen.nl/publications/zels12/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.aiimnijmegen.nl/publications/tan13/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -431,7 +435,15 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.aiimnijmegen.nl/publications/mori17/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/publications/teuw18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/teuw16b/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -556,6 +568,10 @@
   </url>
   <url>
     <loc>https://www.aiimnijmegen.nl/publications/tan16/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/teuw16/</loc>
     <priority>1.0</priority>
   </url>
   <url>
