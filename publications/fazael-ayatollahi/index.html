@@ -291,33 +291,35 @@
     </nav>
 </div>
     <div class="container">
+    
     <h1>Publications of Fazael Ayatollahi </h1>
 
     <p class="my-4">
             <a href="https://www.aiimnijmegen.nl/members/fazael-ayatollahi">Back to page of Fazael Ayatollahi</a>
     </p>
 
-   
+
+
+
  
-            
-
-
+     
+        
 
 <div class="btn-group btn-group-toggle year-button-group" data-toggle="buttons">
-    <input type="radio" name="year-selection" data-year="all" id="input_all" autocomplete="off" style="display: none">
-    <label class="btn btn-link" for="input_all", style="color:grey">
-        all
-    </label>
-        <input type="radio" name="year-selection" data-year="2020" id="input_2020" autocomplete="off" style="display: none">
-        <label class="btn btn-link" for="input_2020", style="color:grey">
-            2020
-        </label>
-</div>
+        <a class="btn btn-link" style="color:grey; font-weight: bold" href="https://www.aiimnijmegen.nl/publications/fazael-ayatollahi/">all</a>
     
-            <div data-year="2020" class="publication-year">
-                <h2>2020</h2>
+
+        <a class="btn btn-link" style="color:grey" href="https://www.aiimnijmegen.nl/publications/fazael-ayatollahi/no-year-headings">all (no year headings)</a>
+
+
+            <a class="btn btn-link" style="color:grey" href="https://www.aiimnijmegen.nl/publications/fazael-ayatollahi/2020">2020</a>
+        
+</div>
+
+    
+            <h2>2020</h2>
 <h3>Papers in international journals</h3>
-                                <ol>
+                            <ol>
 <li>F. Ayatollahi, S. Shokouhi and J. Teuwen, "Differentiating Benign and Malignant Mass and non-Mass Lesions in Breast DCE-MRI using Normalized Frequency-based Features",
 <i>International Journal of Computer Assisted Radiology and Surgery, </i>2020;15(2):297-307.<small>
     
@@ -328,43 +330,8 @@
     <a href=http://www.ncbi.nlm.nih.gov/pubmed/31838643>PMID</a>
 
     </small></li>				
-                        </ol>
-            </div>
+                    </ol>
         
-
-<script type="text/javascript">
-    var buttons = document.getElementsByName('year-selection');
-    var year_blocks = document.getElementsByClassName('publication-year');
-
-    for(var i = 0; i < buttons.length; i++) {
-        buttons[i].addEventListener('click', function(event) {
-        var year = this.dataset.year; 
-        var yearsplit = year.split(' ')
-        for(var b = 0; b < year_blocks.length; b++) {
-            if (year == 'all'){
-                year_blocks[b].style.display = 'block';
-            }
-            else{
-                if (yearsplit[yearsplit.length-1] == 'before'){
-                    if(year_blocks[b].dataset.year <= parseInt(yearsplit[0])) {
-                        year_blocks[b].style.display = 'block';
-                    } else {
-                        year_blocks[b].style.display = 'none';
-                    }
-        
-                } else {
-                    if(year_blocks[b].dataset.year == year) {
-                        year_blocks[b].style.display = 'block';
-                    } else {
-                        year_blocks[b].style.display = 'none';
-                    }
-                }
-            }
-        }
-    });
-    }
-    buttons[1].click()
-</script>
     </div>
     </main>
 
