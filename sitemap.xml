@@ -23,15 +23,11 @@
   </url>
 
   <url>
-    <loc>https://www.aiimnijmegen.nl/publications/ritse-mann/2012-and-before/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://www.aiimnijmegen.nl/publications/2012-and-before/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.aiimnijmegen.nl/publications/ritse-mann/2013/</loc>
+    <loc>https://www.aiimnijmegen.nl/publications/ritse-mann/2012-and-before/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -39,11 +35,23 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.aiimnijmegen.nl/publications/2014/</loc>
+    <loc>https://www.aiimnijmegen.nl/publications/ritse-mann/2013/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.aiimnijmegen.nl/publications/ritse-mann/2014/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/2014/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/2015/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/ritse-mann/2015/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -55,11 +63,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.aiimnijmegen.nl/publications/ritse-mann/2015/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.aiimnijmegen.nl/publications/2015/</loc>
+    <loc>https://www.aiimnijmegen.nl/publications/nikita-moriakov/2016/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -67,19 +71,15 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.aiimnijmegen.nl/publications/ritse-mann/2016/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://www.aiimnijmegen.nl/publications/jonas-teuwen/2016/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.aiimnijmegen.nl/publications/mehmet-dalmis/2016/</loc>
+    <loc>https://www.aiimnijmegen.nl/publications/ritse-mann/2016/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.aiimnijmegen.nl/publications/nikita-moriakov/2016/</loc>
+    <loc>https://www.aiimnijmegen.nl/publications/mehmet-dalmis/2016/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -95,23 +95,11 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.aiimnijmegen.nl/publications/jonas-teuwen/2017/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://www.aiimnijmegen.nl/publications/ritse-mann/2017/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.aiimnijmegen.nl/publications/jonas-teuwen/2018/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.aiimnijmegen.nl/publications/ritse-mann/2018/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.aiimnijmegen.nl/publications/mehmet-dalmis/2018/</loc>
+    <loc>https://www.aiimnijmegen.nl/publications/jonas-teuwen/2017/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -119,15 +107,19 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.aiimnijmegen.nl/publications/jonas-teuwen/2019/</loc>
+    <loc>https://www.aiimnijmegen.nl/publications/mehmet-dalmis/2018/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/ritse-mann/2018/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/jonas-teuwen/2018/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.aiimnijmegen.nl/publications/nikita-moriakov/2019/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.aiimnijmegen.nl/publications/ritse-mann/2019/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -139,7 +131,11 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://www.aiimnijmegen.nl/publications/jonas-teuwen/2020/</loc>
+    <loc>https://www.aiimnijmegen.nl/publications/jonas-teuwen/2019/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/ritse-mann/2019/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -151,15 +147,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.aiimnijmegen.nl/publications/jonas-teuwen/2020/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/ritse-mann/2020/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/publications/fazael-ayatollahi/2020/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.aiimnijmegen.nl/publications/nikita-moriakov/2020/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.aiimnijmegen.nl/publications/ritse-mann/2020/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -207,7 +207,15 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.aiimnijmegen.nl/publications/jonas-teuwen/no-year-headings/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://www.aiimnijmegen.nl/publications/mehmet-dalmis/no-year-headings/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://www.aiimnijmegen.nl/publications/riccardo-samperna/no-year-headings/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -220,14 +228,6 @@
   </url>
   <url>
     <loc>https://www.aiimnijmegen.nl/publications/no-year-headings/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.aiimnijmegen.nl/publications/jonas-teuwen/no-year-headings/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://www.aiimnijmegen.nl/publications/riccardo-samperna/no-year-headings/</loc>
     <priority>1.0</priority>
   </url>
   <url>
