@@ -5,11 +5,11 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="canonical" href="https://www.aiimnijmegen.nl/publications/gube15e/">
+    <link rel="canonical" href="https://www.aiimnijmegen.nl/publications/ruh19/">
 
 
 
-    <title>Automated Detection of Mass-like, Non-mass-like and Focus Breast Cancer Lesions Visible in False-negative Screening DCE-MRI - DIAG AIIM</title>
+    <title>Generating CT-scans with 3D Generative Adversarial Networks Using a Supercomputer - DIAG AIIM</title>
 
 
     <!-- Search Engine -->
@@ -17,19 +17,19 @@
     <meta name="image" content="">
 
     <!-- Schema.org for Google -->
-    <meta itemprop="name" content="Automated Detection of Mass-like, Non-mass-like and Focus Breast Cancer Lesions Visible in False-negative Screening DCE-MRI - DIAG AIIM">
+    <meta itemprop="name" content="Generating CT-scans with 3D Generative Adversarial Networks Using a Supercomputer - DIAG AIIM">
     <meta itemprop="description" content="">
     <meta itemprop="image" content="">
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Automated Detection of Mass-like, Non-mass-like and Focus Breast Cancer Lesions Visible in False-negative Screening DCE-MRI - DIAG AIIM">
+    <meta name="twitter:title" content="Generating CT-scans with 3D Generative Adversarial Networks Using a Supercomputer - DIAG AIIM">
     <meta name="twitter:description" content="">
     <meta name="twitter:creator" content="@diagnijmegen">
     <meta name="twitter:image:src" content="">
 
     <!-- Open Graph general (Facebook, Pinterest & Google+) -->
-    <meta property="og:title" content="Automated Detection of Mass-like, Non-mass-like and Focus Breast Cancer Lesions Visible in False-negative Screening DCE-MRI - DIAG AIIM">
+    <meta property="og:title" content="Generating CT-scans with 3D Generative Adversarial Networks Using a Supercomputer - DIAG AIIM">
     <meta property="og:description" content="">
     <meta property="og:image" content="">
     <meta property="og:site_name" content="DIAG AIIM">
@@ -286,19 +286,19 @@
 
 
           <li class="breadcrumb-item"><a href="https://www.aiimnijmegen.nl/publications/">Publications</a></li>
-        <li class="breadcrumb-item">Automated Detection of Mass-like, Non-mass-like and Focus Breast Cancer Lesions Visible in False-negative Screening DCE-MRI</li>
+        <li class="breadcrumb-item">Generating CT-scans with 3D Generative Adversarial Networks Using a Supercomputer</li>
       </ol>
     </nav>
 </div>
 
 <div class="container">
-  <h1 class="page-title">Automated Detection of Mass-like, Non-mass-like and Focus Breast Cancer Lesions Visible in False-negative Screening DCE-MRI</h1>
+  <h1 class="page-title">Generating CT-scans with 3D Generative Adversarial Networks Using a Supercomputer</h1>
 
   <p class="lead">
-    A. Gubern-Mérida,     S. Vreemann,     R. Marti,     J. Melendez,     R. Mann,     B. Platel and N. Karssemeijer  </p>
+    D. Ruhe,     V. Codreanu,     C. van Leeuwen,     D. Podareanu,     V. Saletore and J. Teuwen  </p>
 
 
-  <p>Annual Meeting of the Radiological Society of North America 2015.</p>
+  <p>Medical Imaging meets NeurIPS 2019.</p>
 
   <p>
 
@@ -311,7 +311,7 @@
 
 
   <div class="page-content">
-    <p>PURPOSE Breast cancer lesions are regularly overlooked or misinterpreted in breast MRI screening due to lesion appearance suggesting benign disease, extensive background enhancement or fatigue and lack of experience analyzing 4D data. In this study, we evaluate the performance of an automated computer-aided detection (CAD) system to detect mass-like, non-mass-like and focus breast cancer lesions that were, in retrospect, visible on earlier screening MRIs but only detected in a subsequent scans. METHOD AND MATERIALS Between 2003 and 2013, we identified 24 prior-negative MRI scans (BI-RADS 1/2) with 24 breast cancers (10 mass-like, 8 non-mass-like and 6 foci) in a MRI screening program. Cancers were detected by radiologists at the following screening round. Additionally, 120 normal scans were collected from the same MRI screening program from different women without history of breast cancer or breast surgery. A previously validated fully automated CAD system was applied to this dataset to detect malignant lesions. The system corrects for motion artifacts and segments the breast. Subsequently, lesion candidates are detected using relative enhancement and texture features to characterize breast cancer lesions. The final classification is performed using region-based morphological and kinetics features computed on segmented lesion candidates. The detection performance was evaluated using free-response receiver operating characteristic analysis and bootstrapping. A CAD finding was considered a true positive when its center was inside a lesion annotation. The false positive rate (FP/case) was determined on the normal cases. RESULTS At 4 FP/case, the sensitivity for detecting mass-like and non-mass-like lesions in prior-negative scans was 0.50 (95% confidence interval 0.17-0.83) and 0.85 (0.50-1.00), respectively. At the same FP/case, the CAD system did not detect focus breast cancer lesions. CONCLUSION A CAD system was able to automatically detect 50% and 85% of mass-like and non-mass-like enhancement lesions that were missed in screening with MRI, respectively. Further improvement is required to detect focus lesions. The integration of such a system in clinical practice might aid radiologists to avoid screening errors. CLINICAL RELEVANCE/APPLICATION Automated lesion detection in breast MRI can facilitate breast cancer screening and reduce reading errors.</p>
+    <p>In this work we set a baseline for using Generative Adversarial Networks (GAN) togenerate 3D medical images. Specifically, we trained a GAN to generate complete3D chest computed tomography (CT) scans up to 512x512x128 volumes. Most notably this is motivated by the purpose of anonymizing data for easier sharing and applications for low-dosage radiotherapy planning. Because of the memory and compute requirements, the model was trained on a CPU-based supercomputer. End-to-end model training took +-8 days. Additionally, we propose two metrics for large-resolution 3D volume comparison. In this paper, we report first results using these metrics, hoping to be bettered inthe future.To our knowledge, this is the largest-scale experiment of generative models so far,and the first to generate full-resolution complete 3D CT scans.</p>
   </div>
 
 
@@ -333,7 +333,7 @@
                             <use xlink:href="#icon-twitter"></use>
                         </svg></a>&nbsp;
                     
-                    <a href="https://github.com/diagnijmegen/website-content/edit/master/website-aiimnijmegen/content/pages/publications/gube15e.md" title="Edit on Github">
+                    <a href="https://github.com/diagnijmegen/website-content/edit/master/website-aiimnijmegen/content/pages/publications/ruh19.md" title="Edit on Github">
                         <svg class="nav-icon svg-icon">
                             <use xlink:href="#icon-write"></use>
                         </svg></a>&nbsp;
